@@ -68,7 +68,7 @@ I am a Computer Engineering Co-op student at The University of British Columbia,
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 - <small>Email: <a href="mailto:1.alexander.dudar@gmail.com">1.alexander.dudar@gmail.com</a></small>
 - <small>LinkedIn: <a href="https://www.linkedin.com/in/alexander-dudar" target="_blank">linkedin.com/in/alexander-dudar</a></small>
 - <small>GitHub: <a href="https://github.com/alexanderdudar" target="_blank">github.com/alexanderdudar</a></small>
