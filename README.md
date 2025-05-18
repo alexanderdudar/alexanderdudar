@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Alexander Dudar
 
+> ⚠️ Heads up: I'm currently working full-time at SAP Canada, so my GitHub activity is much quieter than usual.
+
 I'm a Computer Engineering student at UBC with 4+ years of experience in software development, data analytics, and technical project management. My work spans full-stack applications, cloud infrastructure, and systems design with a focus on delivering real business and operational impact.
 
 At **SAP Canada**, I worked as a Technical Project Manager Intern, leading technical coordination across 20+ engineering teams on the SAP Analytics Cloud platform. I built automated Excel models that saved SAC hiring teams up to 4 hours weekly, refactored internal tools used by 220+ employees, and developed a KPI dashboard for live operational tracking. My work directly improved developer workflows, hiring efficiency, and system migration planning.
